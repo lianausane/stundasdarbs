@@ -1,0 +1,2 @@
+# stundasdarbs
+stundas darbs uz %
