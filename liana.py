@@ -1,4 +1,5 @@
 import math
+from re import L
 
 def rinka_lauk(r):
     s = math.pi * r**2
@@ -19,3 +20,13 @@ def trijs_laukums(h, a):
 def trijs_perimetrs(a, b, c):
     p = a+b+c
     return p
+
+def cetrusturis_laukums(a, b,):
+    l = a*b
+    return L
+
+def cetrusturis_perimetrs(a, b):
+    h = 2*(a + b)
+    return h    
+
+    
