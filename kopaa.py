@@ -33,7 +33,3 @@ else:
         u = int(input("Ievadi taisnustūta īsāko malu: "))
         t = int(input("Ievadi taisnustūta garāko malu: "))
         print("Perimetrs ir", liana.cetrusturis_perimetrs(u, t))
-            
-
-              
-
